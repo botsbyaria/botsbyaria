@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aria 👋
 
-<!--
-**botsbyaria/botsbyaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **Telegram bots in Python** for small businesses and crypto projects: customer support, appointment booking, price alerts and automation. Every bot is tested end-to-end and runs 24/7.
 
-Here are some ideas to get you started:
+### 🤖 Try my live demo bots
+| Bot | What it does |
+|---|---|
+| [@ariahelp_demo_bot](https://t.me/ariahelp_demo_bot) | 🛟 Support: FAQ answers, hand-off to a human agent, tickets & ratings |
+| [@ariabook_demo_bot](https://t.me/ariabook_demo_bot) | 📅 Booking: free-slot search, reminders, owner notifications |
+| [@aria_pricewatch_bot](https://t.me/aria_pricewatch_bot) | 🪙 Crypto price alerts, watchlist, daily market report |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack
+Python · python-telegram-bot · aiogram · SQLite / PostgreSQL · REST APIs · exchange APIs · Linux · systemd · Docker
+
+### 💼 Hire me
+Need a bot for your business? Message me on Telegram or find me on LaborX.
